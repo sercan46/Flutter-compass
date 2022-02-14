@@ -1,4 +1,4 @@
-# Quiz Game
+# Compass
 
 My compass application that I developed. My project to help you find direction.
 
